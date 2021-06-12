@@ -1,0 +1,28 @@
+{
+  "name": "image-hash",
+  "version": "1.0.0",
+  "description": "algorithm to hash image",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2112akilesh/Spot-Hash.git"
+  },
+  "keywords": [
+    "image",
+    "hash"
+  ],
+  "author": "Akilesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2112akilesh/Spot-Hash/issues"
+  },
+  "homepage": "https://github.com/2112akilesh/Spot-Hash#readme",
+  "dependencies": {
+    "image-js": "^0.31.4"
+  }
+}
