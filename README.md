@@ -10,3 +10,9 @@
 
 ## Run the application
 ```node index.js```
+
+**Explained:**
+https://youtu.be/iglBLzMwIos
+
+**PPT:**
+https://docs.google.com/presentation/d/1MwRoeWk2bCB1XbB20V1NnJZorSdRCBng/edit?usp=sharing&ouid=105115089305308023735&rtpof=true&sd=true
